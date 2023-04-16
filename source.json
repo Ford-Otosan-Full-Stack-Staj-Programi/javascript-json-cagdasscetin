@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Mert Yağmur",
+    "group": "OrangeRed",
+    "assistant": false
+  },
+  {
+    "name": "Gülnisa Aslan",
+    "group": "AliceBlue",
+    "assistant": true
+  },
+  {
+    "name": "Çağatay Koçyiğit",
+    "group": "OrangeRed",
+    "assistant": false
+  },
+  {
+    "name": "Beyza Hatip",
+    "group": "OrangeRed",
+    "assistant": false
+  },
+  {
+    "name": "Ayşegül Aydoğan",
+    "group": "DeepPink",
+    "assistant": false
+  },
+  {
+    "name": "Çağdaş Çetin",
+    "group": "DeepPink",
+    "assistant": false
+  },
+  {
+    "name": "Zeynep Erden",
+    "group": "OrangeRed",
+    "assistant": true
+  },
+  {
+    "name": "Berkan KETEN",
+    "group": "AliceBlue",
+    "assistant": false
+  },
+  {
+    "name": "Emine Eda Gülşen",
+    "group": "DeepPink",
+    "assistant": false
+  },
+  {
+    "name": "Eren Engin",
+    "group": "DeepPink",
+    "assistant": false
+  },
+  {
+    "name": "Yunus Emre SAVAN",
+    "group": "AliceBlue",
+    "assistant": false
+  },
+  {
+    "name": "Gizem Yüksel",
+    "group": "AliceBlue",
+    "assistant": false
+  },
+  {
+    "name": "Ahmet Kamil DEMİRCİ",
+    "group": "OrangeRed",
+    "assistant": false
+  },
+  {
+    "name": "Tolga Egilmezel",
+    "group": "DeepPink",
+    "assistant": true
+  }
+]
